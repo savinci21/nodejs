@@ -31,7 +31,7 @@ const process = {
        
         return res.json({
             success: false,
-            msg: "로그인 실패했어 다시 입력하세요",
+            msg: "로그인 실패! 다시 입력하세요",
         });
     },
 };
